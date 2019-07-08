@@ -1,13 +1,13 @@
 #Use for ntraits00 reps w/ cluster -output from Run 5
 
-source("/Users/Arthur/Dropbox/Year_2014/Grabowski/Oslo cluster codes/modified/sample.all.hm.R")
-source("/Users/Arthur/Dropbox/Year_2014/Grabowski/Oslo cluster codes/modified/mean.c.R")
-source("/Users/Arthur/Dropbox/Year_2014/Grabowski/Oslo cluster codes/modified/mean.ea.R")
-source("/Users/Arthur/Dropbox/Year_2014/Grabowski/Oslo cluster codes/modified/mean.f2.hm.R")
-source("/Users/Arthur/Dropbox/Year_2014/Grabowski/Oslo cluster codes/modified/mean.i.R")
+source("./sample.all.hm.R")
+source("./mean.c.R")
+source("./mean.ea.R")
+source("./mean.f2.hm.R")
+source("./mean.i.R")
 source("/Users/Arthur/Dropbox/Year_2014/Grabowski/Oslo cluster codes/modified/mean.r.hm.R")
-source("/Users/Arthur/Dropbox/Year_2014/Grabowski/Oslo cluster codes/modified/t.crit.fxn.R")
-source("/Users/Arthur/Dropbox/Year_2014/Grabowski/Oslo cluster codes/modified/CalcR2.R")
+source("./t.crit.fxn.R")
+source("./CalcR2.R")
 
 library(clusterGeneration)
 library(truncnorm)

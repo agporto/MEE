@@ -5,7 +5,7 @@ source("./mean.c.R")
 source("./mean.ea.R")
 source("./mean.f2.hm.R")
 source("./mean.i.R")
-source("/Users/Arthur/Dropbox/Year_2014/Grabowski/Oslo cluster codes/modified/mean.r.hm.R")
+source("./mean.r.hm.R")
 source("./t.crit.fxn.R")
 source("./CalcR2.R")
 
